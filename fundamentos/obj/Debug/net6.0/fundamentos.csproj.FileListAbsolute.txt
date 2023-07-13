@@ -1,0 +1,15 @@
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\bin\Debug\net6.0\fundamentos.exe
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\bin\Debug\net6.0\fundamentos.deps.json
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\bin\Debug\net6.0\fundamentos.runtimeconfig.json
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\bin\Debug\net6.0\fundamentos.dll
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\bin\Debug\net6.0\fundamentos.pdb
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.csproj.AssemblyReference.cache
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfo.cs
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.dll
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\refint\fundamentos.dll
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.pdb
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\fundamentos.genruntimeconfig.cache
+C:\Users\Manoel\EstudosPOOEmCs\fundamentos\obj\Debug\net6.0\ref\fundamentos.dll
