@@ -1,3 +1,5 @@
+using Balta.ContextoCompartilhado;
+
 namespace Balta.ContextoConteudo {
     public class Carreira : Conteudo {
         public Carreira(string titulo, string url) 

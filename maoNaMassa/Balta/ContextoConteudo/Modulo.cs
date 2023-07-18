@@ -1,5 +1,7 @@
+using Balta.ContextoCompartilhado;
+
 namespace Balta.ContextoConteudo {
-     public class Modulo {
+     public class Modulo : Base {
         public Modulo() {
             Aulas = new List<Aula>();
         }
